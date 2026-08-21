@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hello 김영규 👋")
+st.title("Hello 축구선수 👋")
 
 st.markdown(
 
